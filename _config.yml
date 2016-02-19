@@ -1,7 +1,7 @@
 name: ideative
 favicon: null
-layout_spectrum: 0.0761397173628211
-typography_spectrum: 0.28376061539165676
+layout_spectrum: 0.23078
+typography_spectrum: 0.80903
 cta:
   domain: null
   bucket: null
@@ -16,13 +16,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.02959348214790225
-  lightness: 0.7185701602138579
-  saturation: 0.3811087708454579
-  rhythmicContrast: 0.10489610093645751
+    - '#f7f7f7'
+    - '#000000'
+    - '#d4bba5'
+    - '#aa7b54'
+    - '#79491e'
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.625
+  rhythmicContrast: 0
 purpose: []
